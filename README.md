@@ -1,14 +1,19 @@
 # TheDevilLands-UE4-UWP-XboxOne Alpha Version WIP 
 
 ---------------------------------------
-A first person dark fantasy RPG xbox game that uses 3D world environments mixed with animated 2D sprites.
+A first person post apocalyptic dark fantasy RPG game project for UWP Xbox One.
 
+Explore, Battle & Level Up while trying to survive the deadly demonic post apocalyptic world where cultists summon powerful demons.
+
+The undead lurk in the shadows waiting for a chance to devour the living and factions fight for supremacy over the devil lands.
 ---------------------------------------
 The Devil Lands Inspiration comes from:
 
-("DOOM": First person, 3D levels mixed with animated 2D sprites.)
+("DOOM": Demonic Theme, First person, 3D levels mixed with animated 2D sprites.)
 
-("Diablo": Dark Medieval Fantasy RPG, Dark Fantasy Characters & Weapons, Dark Fantasy style OpenWorlds/Levels.)
+("Diablo": Dark Fantasy Theme, Procedural Dungeons)
+
+("Fallout": Post apocalyptic Theme, Factions)
 
 ---------------------------------------
 Current NPCs Ingame:
@@ -29,6 +34,8 @@ Current Weapons Ingame:
 ---------------------------------------
 Features Implemented:
 
+-Random Procedural Dungeons
+
 -EXP Leveling System + Gain Skill Points on LvL up / Gain EXP for killing Enemies. (WIP)
 
 -Item Inventory
@@ -46,8 +53,9 @@ Features Implemented:
 -Full Gamepad Controller Support.
 
 ---------------------------------------
-Project Currently Under 2GB & Uses LFS storage.
-
 Built for Xbox One using Unreal Engine 4.21 UWP
 
+Project Uses LFS storage.
+
+Project Is Currently 2.6 GB
 ---------------------------------------
