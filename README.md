@@ -6,6 +6,7 @@ A first person post apocalyptic dark fantasy RPG game project for UWP Xbox One.
 Explore, Battle & Level Up while trying to survive the deadly demonic post apocalyptic world where cultists summon powerful demons.
 
 The undead lurk in the shadows waiting for a chance to devour the living and factions fight for supremacy over the devil lands.
+
 ---------------------------------------
 The Devil Lands Inspiration comes from:
 
@@ -58,4 +59,5 @@ Built for Xbox One using Unreal Engine 4.21 UWP
 Project Uses LFS storage.
 
 Project Is Currently 2.6 GB
+
 ---------------------------------------
