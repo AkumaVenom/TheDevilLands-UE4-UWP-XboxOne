@@ -19,11 +19,25 @@ The Devil Lands Inspiration comes from:
 ---------------------------------------
 Current NPCs Ingame:
 
--Zombie (Melee Enemy) A regular zombie that attacks the player.
+-Zombie (Melee Enemy) (Undead)
 
--Demonic Spiderling (Melee Enemy) They are small and in many numbers, They move at a very fast speed and will attack the player if provoked.
+-Bloater (Melee Enemy) (Undead)
 
--Demonic Cultist (Ranged Enemy) They summon hellish fireballs from a distance to shoot at the player.
+-Skeleton (Melee Enemy) (Undead)
+
+-Demonic Spiderling (Melee Enemy) (Creature)
+
+-Obelisk Scorpion (Melee Enemy) (Creature)
+
+-Terror Demon (Melee Enemy) (Demon)
+
+-Mounted Demonic Cultist (Melee Enemy) (Faction: The Hellbounds)
+
+-Demonic Cultist (Ranged Enemy) (Faction: The Hellbounds)
+
+-Laughing Skulls Soldier (Ranged Enemy) (Faction: The Laughing Skulls)
+
+-BloodHood Soldier (Ranged Enemy) (Faction: The BloodHood)
 
 ---------------------------------------
 Current Weapons Ingame:
@@ -31,6 +45,8 @@ Current Weapons Ingame:
 -Basic Pitchfork (Melee Weapon)
 
 -Flame Thrower Hand (Ranged Weapon)
+
+-Demon Form Sigil (Melee Weapon)
 
 ---------------------------------------
 Features Implemented:
@@ -58,6 +74,6 @@ Built for Xbox One using Unreal Engine 4.21 UWP
 
 Project Uses LFS storage.
 
-Project Is Currently 2.6 GB
+Project Is Currently 4.7 GB
 
 ---------------------------------------
