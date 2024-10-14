@@ -80,6 +80,4 @@ Project Uses LFS storage.
 
 Project Is Currently 4.7 GB
 
-The UE4.27 version of this project and this UWP version both use two different random procedural dungeon systems due to compatibility issues.
-
 ---------------------------------------
