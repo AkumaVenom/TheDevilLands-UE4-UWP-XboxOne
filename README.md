@@ -1,8 +1,6 @@
 # TheDevilLands-UE4-UWP-XboxOne Alpha Version WIP 
 
-This is UE4.21 UWP version of the project & it also works with the regular UE4.21 from epic games launcher.
-
-Here is the UE4 4.27 version of this Project: https://github.com/AkumaVenom/TheDevilLands-UE4
+UE4 4.27 version of this Project: https://github.com/AkumaVenom/TheDevilLands-UE4
 
 ---------------------------------------
 A first person post apocalyptic dark fantasy RPG game project for UWP Xbox One using (Unreal Engine 4.21 UWP)
@@ -79,5 +77,4 @@ Built for Xbox One using Unreal Engine 4.21 UWP
 Project Uses LFS storage.
 
 Project Is Currently 4.7 GB
-
 ---------------------------------------
