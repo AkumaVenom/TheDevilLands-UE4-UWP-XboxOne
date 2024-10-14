@@ -65,7 +65,7 @@ Features Implemented:
 
 -Saving & Loading
 
--NPC Enemy AI (Melee & Ranged)
+-NPC Enemy AI (Melee & Ranged) - NPC Sprites use 8 way directional rotation like on doom 1 & 2.
 
 -NPC's can be Looted for a chance of getting items.
 
