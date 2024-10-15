@@ -77,4 +77,5 @@ Built for Xbox One using Unreal Engine 4.21 UWP
 Project Uses LFS storage.
 
 Project Is Currently 4.7 GB
+
 ---------------------------------------
