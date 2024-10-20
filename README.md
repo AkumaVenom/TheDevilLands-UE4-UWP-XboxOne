@@ -3,7 +3,7 @@
 UE4 4.27 version of this Project: https://github.com/AkumaVenom/TheDevilLands-UE4
 
 ---------------------------------------
-v0.0.3.2 Xbox Dev Mode PreRelease:
+Xbox Dev Mode PreRelease:
 
 https://github.com/AkumaVenom/TheDevilLands-UE4-UWP-XboxOne/releases
 
