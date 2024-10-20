@@ -3,6 +3,11 @@
 UE4 4.27 version of this Project: https://github.com/AkumaVenom/TheDevilLands-UE4
 
 ---------------------------------------
+Xbox Dev Mode Alpha Test PreRelease:
+
+Coming Soon.
+
+---------------------------------------
 A first person post apocalyptic dark fantasy RPG game project for UWP Xbox One using (Unreal Engine 4.21 UWP)
 
 Explore, Battle & Level Up while trying to survive the deadly demonic post apocalyptic world where cultists summon powerful demons.
